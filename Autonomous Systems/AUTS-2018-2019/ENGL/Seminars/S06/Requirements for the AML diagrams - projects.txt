@@ -1,0 +1,9 @@
+Requirements for the AML diagrams
+-----------------------------------------------------------------------
+- follow naming conventions for classes, atributes, operations
+- represent suitable relations between classes
+- represent suitable data types for atributes
+- represent suitable arguments and returned values for operations
+- represent suitable multiplicity for relations
+- add collections for classes (in a form of attributes) if necessary
+- represent navigability of relations

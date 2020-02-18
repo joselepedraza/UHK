@@ -1,0 +1,29 @@
+
+
+Study materials at W3School: https://www.w3schools.com/default.asp
+
+Study materials at Mozilla: https://developer.mozilla.org/en-US/docs/Web
+
+Page validation (HTML5): https://validator.w3.org/
+
+Stylesheet validation (CSS3): https://jigsaw.w3.org/css-validator/
+
+Current standard specification (recommendation): https://www.w3.org/TR/html52/
+
+Dummy text generator: http://www.lorem-ipsum.cz/
+
+CSS Zen garden: http://www.csszengarden.com/
+
+HTML5/CSS3 element support in browsers: http://www.caniuse.com
+
+Interactive FlexBox: https://codepen.io/justd/pen/yydezN
+
+Flexbox guide: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+FlexBox game: http://flexboxfroggy.com/
+
+DOM creation from HTML code: https://software.hixie.ch/utilities/js/live-dom-viewer/
+
+JavaScript Guide: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+
+JavaScript tutorial: https://developer.mozilla.org/en-US/docs/Learn/JavaScript

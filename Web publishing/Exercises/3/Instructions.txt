@@ -1,0 +1,33 @@
+
+Instructions
+
+Create styles for an HTML5 document for four target devices:
+
+    mobile phone (max. width 425 px)
+    tablet (min. width 426 px - max. width 768 px)
+    other devices with screen (min. width 769 px – max. width 2560 px and more)
+    printed media output (white paper of A4 size).
+
+You can use Lorem ipsum (dummy) text generator to produce the content of the document (see e.g. http://www.lorem-ipsum.cz/ which generates a text including HTML markup). You can suppose that the content of the documents is composed of parts that differ in type, extent and occurrence frequency at the page (e.g. article, teaser, discussion post and post reaction, review). Group together content parts of the same type (e.g. into a section of posts, another section of reviews, etc.). Place related content parts close one to other (e.g. a post together with a a reaction to that post, article and review about the same topic). Insert headings (up to the level two or three) at appropriate places of the content. The document will also contain additional information (in footer, aside panel) and navigation (fake links are allowed). If you get stucked, you can use the CSS Zen Garden example content instead (skip the step one in the procedure bellow).
+
+Consider using paper and pen to sketch a general organization of the content parts on a page.
+
+Once you have a wire model of your page, follow the procedure bellow:
+
+    Assembly the text into logical parts and add containing elements (div, span) as needed. The content should be clear without any stylesheet. Break down the content by semantic elements (header, main, article, section, nav, aside, footer) and general elements (div, span) as needed.
+    Define the document styling for the device with the narrowest screen first. Set the usable width of the screen by setting the width (or max-width) property of the body element (check the effect by changing the width of the browser window). In order to center the content of the document, set the margin property to the auto value to the body element.
+    Use selectors based on element types and class names. Use composite selectors: combine element type with class name, element nested in another element.
+    Set suitable padding, margin and border for all elements.
+    Set around elements by setting the flow attribute and undo this effect by setting the clear attribute.
+    If the content of an element does not fit in the place given by its box model, control the content overflow by setting the overflow and text-overflow properties.
+
+Other requirements:
+
+    All styling rules will be defined in external stylesheet(s).
+    Stylesheets will include suitable comments, styling rules will be grouped in a logical manner.
+    Normalizing or resetting stylesheet (own or ready-to-use) will be used.
+    The styling itself will be defined separately in another stylesheet.
+    The stylesheet will containg rules for formatting text (at least font, color, font size, text background).
+    The stylesheet will contain rules for formatting the layout of the content.
+    The content styling will be optimized for different widths and printing (as specified above). Several stylesheets can be defined. Shared (common) styling rules will be declared once at the beginning of the stylesheet.
+

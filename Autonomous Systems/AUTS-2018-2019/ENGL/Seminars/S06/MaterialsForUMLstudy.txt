@@ -1,0 +1,8 @@
+UML intro 
+-----------------------------------
+http://www.uml-diagrams.org/
+http://www.tutorialspoint.com/uml/uml_interaction_diagram.htm
+
+USE CASES examples
+-----------------------------------
+http://creately.com/diagram-type/use-case

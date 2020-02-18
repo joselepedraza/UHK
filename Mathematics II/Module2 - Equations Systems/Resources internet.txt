@@ -1,0 +1,16 @@
+
+Internet sources
+
+An excellent tool:
+
+This tool enables to learn methods for solving linear equations systems, to solve the concrete system, to check solutions. Later on, it will be useful as showing methods for many related problems of linear algebra. Recommendation: make your own notes, do not read only:  Linear Algebra Toolkit  www.math.odu.edu/~bogacki/cgi-bin/lat.cgi
+
+Problems in calculus, graphs, linear algebra:
+
+SOS as your call for help, and here is somebody who is really ready to help you to manage principles of calculus - derivatives, integrals ... You can find here the theory of calculus basic notions and also a lot of exercises or problems solved in steps. Worthy to see also when you study linear algebra (how to solve systems of linear equations, algebra of matrices etc.). : see http://www.calc101.com/
+
+Linear algebra problems - NEW!! 
+
+Worthy for your study how to solve the linear equations systems and some derived problems as well.
+
+(Other sources are shown on the page Information on the course.)

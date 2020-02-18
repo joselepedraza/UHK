@@ -1,0 +1,26 @@
+Docear 1.2
+---------------------------------------
+http://www.docear.org/software/download/
+
+
+StarUML software
+-----------------------
+http://sourceforge.net/projects/staruml/
+
+AML plugin
+-----------------------
+http://staruml.sourceforge.net/v1/modules.php
+
+
+StarUML tutorials
+-----------------------
+Online: http://staruml.sourceforge.net/docs/user-guide%28en%29/toc.html
+
+PDF: http://www.infor.uva.es/~mlaguna/is1/materiales/StarUML-guia.pdf
+
+
+
+
+
+
+
